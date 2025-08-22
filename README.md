@@ -59,6 +59,7 @@ My focus is on **scalability, observability, and security** across AWS and Azure
 - 🏢 **Previous Roles** – Delivered solutions in **Cloud, DevOps, and Infrastructure**, focusing on automation, monitoring, and reliability improvements.  
 
 ---
+ 
 
 ## ⚙️ Skills Showcase  
 
@@ -72,7 +73,10 @@ My focus is on **scalability, observability, and security** across AWS and Azure
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" /></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /></a>
-</p>  
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /></a>
+</p>
+  
 
 ---
 
