@@ -85,13 +85,6 @@ My focus is on **scalability, observability, and security** across AWS and Azure
 </div>  
 
 ---
-
-## 🐍 GitHub Contribution Snake  
-
-<div align="center">
-  <img src="https://github.com/GorleJansi/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>  
-
 ---
 
 ✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀  
