@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gorlejansi/)  
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blogs-blue?logo=hashnode&style=flat)](https://hashnode.com/@jansigorle)  
-[![Notes](https://img.shields.io/badge/My%20Handwritten%20Notes-Google%20Drive-green?logo=googledrive&style=flat)](https://drive.google.com/drive/folders/1LFNwn0-y2SLu5mmu47eIsWP1o4IxqWpF)
+[![Notes](https://img.shields.io/badge/My%20Handwritten%20Notes-Google%20Drive-green?logo=googledrive&style=flat)](https://drive.google.com/drive/folders/1LFNwn0-y2SLu5mmu47eIsWP1o4IxqWpF)  
 [![Gmail](https://img.shields.io/badge/Email-gorlejansi2001%40gmail.com-red?logo=gmail&style=flat)](mailto:gorlejansi2001@gmail.com)  
 
 ---
