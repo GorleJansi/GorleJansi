@@ -41,8 +41,11 @@ focus_areas:
   - Observability & Incident Response
 currently_learning:
   - Advanced Kubernetes (CKA prep)
-  - Service Mesh (Istio)
+  - AI/LLM Integration in DevOps Workflows
   - Platform Engineering
+currently_building:
+  - AI-powered Case Summary Agent (FastAPI + AWS Lambda + LLM)
+  - Automating support workflows with GenAI for faster incident triage
 ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps", "SRE"]
 fun_fact: "I believe great infrastructure is invisible — until it isn't."
 ```
