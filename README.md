@@ -1,98 +1,168 @@
 <div align="center">
-  <img src="https://github.com/GorleJansi/GorleJansi/blob/main/bannerj.png" alt="GitHub Banner" width="900"/>
+  <img src="https://github.com/GorleJansi/GorleJansi/blob/main/bannerj.png" alt="Banner" width="900"/>
 </div>
 
-# 👋 Hi, I'm Jansi Gorle  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> Hi, I'm Jansi Gorle
+</h1>
 
-### Technical Consulting Engineer @ Cisco  
-🚀 DevOps | SRE | Cloud Engineer | AWS & Azure | Python | Kubernetes | Terraform | CI/CD  
+<h3 align="center">Technical Consulting Engineer @ Cisco | DevOps & Cloud Engineer</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gorlejansi/)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-Blogs-blue?logo=hashnode&style=flat)](https://hashnode.com/@jansigorle)  
-[![Notes](https://img.shields.io/badge/My%20Handwritten%20Notes-Google%20Drive-green?logo=googledrive&style=flat)](https://drive.google.com/drive/folders/1LFNwn0-y2SLu5mmu47eIsWP1o4IxqWpF)  
-[![Gmail](https://img.shields.io/badge/Email-gorlejansi2001%40gmail.com-red?logo=gmail&style=flat)](mailto:gorlejansi2001@gmail.com)  
-
----
-
-## 🔹 About Me  
-
-I’m a **Technical Consulting Engineer at Cisco** with **3+ years of hands-on experience** in DevOps, Site Reliability, and Cloud Engineering.  
-I specialize in **building resilient infrastructure, automating workflows, and enabling CI/CD pipelines** that improve delivery efficiency and reliability.  
-
-My focus is on **scalability, observability, and security** across AWS and Azure cloud platforms, while leveraging tools like **Terraform, Kubernetes, and Python** to deliver automation-driven solutions.  
-
----
-
-## 🧰 Tech Stack  
-
-- **Cloud Platforms**: AWS (EC2, EKS, ECR, S3, RDS, VPC, CloudWatch, CloudTrail), Azure  
-- **OS & Automation**: Linux, Shell, Bash, Python  
-- **Infrastructure as Code (IaC)**: Terraform 
-- **CI/CD**: Jenkins, GitHub Actions, Azure DevOps, Jules  
-- **Containers & Orchestration**: Docker, Kubernetes  
-- **Security**: IAM, Azure Key Vault  
-- **Monitoring & Observability**: Prometheus, Grafana, Zabbix, Kibana, Splunk, CloudWatch  
-- **SCM & Tools**: GitHub, SonarQube, JFrog Artifactory  
-
----
-
-## 🔧 What I Do  
-
-- 🛠️ Architect and manage **cloud infrastructure** on AWS & Azure using **Terraform & IaC**  
-- 🚀 Develop **CI/CD pipelines** (Jenkins, GitHub Actions, Azure DevOps) to streamline delivery  
-- 🤖 Automate workloads & operational tasks with **Python & Shell scripting**  
-- 🔐 Strengthen **cloud security** with IAM policies, RBAC, and vault integrations  
-- 📊 Enable full **observability & incident response** with Prometheus, Grafana, Zabbix, and CloudWatch  
-- ⚡ Drive **cost optimization & performance improvements** in cloud deployments  
-
----
-
-## 💼 Career Snapshot  
-
-- 🏢 **Cisco – Technical Consulting Engineer** *(Feb 2023 – Present)*  
-  - Optimized network & system uptime (**99.9% availability**) using Zabbix & Grafana  
-  - Reduced AWS cloud costs by **15%** via resource decommissioning & optimization  
-  - Automated workloads with AWS (EC2, S3, Lambda, RDS) → **40% lower latency**  
-  - Secured infrastructure using IAM & network controls → **25% reduced risks**  
-  - Built CI/CD pipelines with Jenkins → **30% faster software delivery**  
-  - Achieved **95% SLA compliance** by resolving escalated incidents efficiently  
-
-- 🏢 **Previous Roles** – Delivered solutions in **Cloud, DevOps, and Infrastructure**, focusing on automation, monitoring, and reliability improvements.  
-
----
- 
-
-## ⚙️ Skills Showcase  
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" /></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&lines=Building+Resilient+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+with+Terraform+%E2%9A%99%EF%B8%8F;Orchestrating+Containers+with+Kubernetes+%F0%9F%9A%A2;Driving+Reliability+%26+Observability+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
-  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gorlejansi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hashnode.com/@jansigorle"><img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://drive.google.com/drive/folders/1LFNwn0-y2SLu5mmu47eIsWP1o4IxqWpF"><img src="https://img.shields.io/badge/Handwritten_Notes-Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="mailto:gorlejansi2001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GorleJansi&label=Profile+Views&color=2196F3&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/GorleJansi?label=Followers&style=for-the-badge&color=2196F3" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 About Me
+
+```yaml
+name: Jansi Gorle
+role: Technical Consulting Engineer @ Cisco
+experience: 3+ years
+location: Hyderabad, India 🇮🇳
+focus_areas:
+  - Cloud Infrastructure (AWS & Azure)
+  - Site Reliability Engineering
+  - CI/CD Automation & GitOps
+  - Kubernetes & Container Orchestration
+  - Observability & Incident Response
+currently_learning:
+  - Advanced Kubernetes (CKA prep)
+  - Service Mesh (Istio)
+  - Platform Engineering
+ask_me_about: ["AWS", "Terraform", "Kubernetes", "DevOps", "SRE"]
+fun_fact: "I believe great infrastructure is invisible — until it isn't."
+```
+
+---
+
+## 💼 Career Highlights
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏢 Cisco Systems</h3>
+      <p><i>Technical Consulting Engineer • Feb 2023 – Present</i></p>
+      <ul>
+        <li>⚡ <b>99.9% uptime</b> via Zabbix + Grafana monitoring</li>
+        <li>💰 <b>15% AWS cost reduction</b> through resource optimization</li>
+        <li>🚀 <b>40% latency reduction</b> on production workloads</li>
+        <li>🔐 <b>25% fewer security risks</b> via IAM hardening</li>
+        <li>📦 <b>30% faster delivery</b> with Jenkins CI/CD</li>
+        <li>🎯 <b>95% SLA compliance</b> on incident resolution</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🤖 Featured Project</h3>
+      <p><b>AI-Powered Case Summary Bot</b></p>
+      <p>Serverless bot integrating ServiceNow with LLM via AWS Lambda + FastAPI. <b>Reduced case review time by 70%</b> for support engineers.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>AWS Lambda</code> <code>ServiceNow</code> <code>LLM</code></p>
+      <br/>
+      <p><b>🏆 Certifications</b></p>
+      <ul>
+        <li>AWS Certified Solutions Architect – Associate</li>
+        <li>AWS Certified AI Practitioner</li>
+        <li>AWS Essentials of Prompt Engineering</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GorleJansi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GorleJansi&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorleJansi&theme=dark&hide_border=false&layout=compact" />
-</div>  
+
+### ☁️ Cloud & Infrastructure
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+### 🐳 Containers & Orchestration
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+### 🔄 CI/CD & DevOps
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+### 📊 Monitoring & Observability
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
+
+### 💻 Languages & Tools
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
 
 ---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GorleJansi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GorleJansi&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorleJansi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GorleJansi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
 ---
 
-✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀  
+## 💡 DevOps Philosophy
 
+> *"Infrastructure is code. Reliability is culture. Automation is freedom."*
 
+<div align="center">
 
+| 🎯 Reliability | ⚡ Automation | 🔍 Observability | 🔐 Security |
+|:---:|:---:|:---:|:---:|
+| SLOs over heroics | Toil → 0 | Metrics, Logs, Traces | Shift-left mindset |
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Let's Build Something Reliable Together!
+
+<a href="https://www.linkedin.com/in/gorlejansi/">
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-DevOps_%7C_SRE_%7C_Cloud-success?style=for-the-badge&logo=handshake&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+</div>
