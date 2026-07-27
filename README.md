@@ -176,15 +176,20 @@ Every incident should leave the platform easier to operate than before.
 
 ---
 
-## GitHub Signal
+## Contribution Signal
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GorleJansi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GorleJansi&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak" />
+  <img src="assets/contribution-highlight.svg" alt="479 contributions in the last year contribution highlight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorleJansi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" alt="Top languages" />
+
+| Current Signal | What It Shows |
+| --- | --- |
+| 479 contributions in the last year | Consistent hands-on DevOps learning and project building |
+| Strong recent activity | Active repo updates across July with daily build, fix, and documentation work |
+| Practical commit trail | Cloud, Terraform, Kubernetes, scripting, DNS, and SRE notes are visible in public work |
+
 </div>
 
 ---
