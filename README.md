@@ -1,148 +1,166 @@
 <div align="center">
-  <img src="https://github.com/GorleJansi/GorleJansi/blob/main/bannerj.png" alt="Jansi Gorle DevOps and SRE banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GorleJansi/GorleJansi/main/bannerj.png" alt="Jansi Gorle DevOps and cloud engineering banner" width="100%" />
 
   <h1>Jansi Gorle</h1>
+  <h3>DevOps & Site Reliability Engineer</h3>
 
   <p>
-    <b>DevOps & Site Reliability Engineer</b><br/>
-    AWS | Kubernetes | Terraform | CI/CD | Observability | Incident Response
+    I build cloud platforms that are automated, observable, secure, and ready for real production pressure.
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/gorlejansi/">
-      <img src="https://img.shields.io/badge/LinkedIn-GorleJansi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-GorleJansi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:gorlejansi2001@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://hashnode.com/@jansigorle">
-      <img src="https://img.shields.io/badge/Hashnode-Technical_Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+      <img src="https://img.shields.io/badge/Hashnode-Tech_Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
     </a>
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=860&lines=I+build+cloud+systems+that+stay+reliable+under+load.;I+turn+manual+operations+into+repeatable+automation.;I+debug+production+issues+with+metrics%2C+logs%2C+traces%2C+and+runbooks.;I+care+about+availability%2C+cost%2C+security%2C+and+delivery+speed." alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=AWS+%7C+Kubernetes+%7C+Terraform+%7C+Ansible;CI%2FCD+%7C+Observability+%7C+Incident+Response;I+turn+production+problems+into+automation+and+runbooks;Reliability+is+designed%2C+measured%2C+and+improved" alt="Typing animation" />
   </p>
 </div>
 
 ---
 
-## Production Impact
-
-| Area | Evidence |
-| --- | --- |
-| Availability | Maintained 99.9% availability for client-facing Cisco services |
-| Kubernetes delivery | Migrated workloads from ECS to EKS and supported 125+ microservices |
-| Infrastructure automation | Provisioned AWS infrastructure with Terraform and Ansible across 200+ servers |
-| Incident response | Owned and resolved 500+ P1/P2 incidents with RCA-driven follow-up |
-| Observability | Built Prometheus, Grafana, Zabbix, Splunk, CloudWatch, and ELK dashboards |
-| Optimization | Reduced MTTR by 50%, latency by 40%, setup time by 70%, and AWS cost by 15% |
+<div align="center">
+  <img src="https://img.shields.io/badge/Availability-99.9%25-22C55E?style=for-the-badge" alt="99.9 percent availability" />
+  <img src="https://img.shields.io/badge/P1%2FP2_Incidents-500%2B-38BDF8?style=for-the-badge" alt="500 plus P1 P2 incidents" />
+  <img src="https://img.shields.io/badge/Microservices-125%2B-F97316?style=for-the-badge" alt="125 plus microservices" />
+  <img src="https://img.shields.io/badge/Servers_Automated-200%2B-A855F7?style=for-the-badge" alt="200 plus servers automated" />
+  <img src="https://img.shields.io/badge/MTTR_Reduced-50%25-14B8A6?style=for-the-badge" alt="50 percent MTTR reduction" />
+</div>
 
 ---
 
-## Operator Profile
+## Control Room
 
-```yaml
-name: Jansi Gorle
-role: DevOps & Site Reliability Engineer
-location: Hyderabad, India
-experience: 3+ years
+<table>
+  <tr>
+    <td width="58%">
+      <h3>Operator Console</h3>
+      <pre>
+role        = DevOps & Site Reliability Engineer
+location    = Hyderabad, India
+cloud       = AWS, Azure
+platform    = Docker, Kubernetes, Helm, Argo CD
+iac         = Terraform, Ansible
+pipeline    = Jenkins, GitHub Actions, GitLab CI, Azure DevOps
+signal      = Prometheus, Grafana, Splunk, ELK, Zabbix, CloudWatch
+language    = Python, Bash, SQL, C++
+mindset     = automate toil, reduce risk, improve recovery
+      </pre>
+    </td>
+    <td width="42%">
+      <h3>What I Optimize</h3>
+      <p><b>Deployment speed</b><br/>CI/CD, container builds, Helm releases, GitOps workflows.</p>
+      <p><b>Reliability</b><br/>Monitoring, actionable alerts, incident response, RCA, and runbooks.</p>
+      <p><b>Cloud operations</b><br/>Cost control, IAM hardening, scaling, cleanup, and repeatable infrastructure.</p>
+    </td>
+  </tr>
+</table>
 
-focus:
-  - AWS and Azure cloud operations
-  - Kubernetes platform delivery
-  - Terraform and Ansible automation
-  - CI/CD pipelines and GitOps workflows
-  - Monitoring, alerting, incident response, and RCA
+---
 
-operating_style:
-  - automate repeatable work
-  - observe before guessing
-  - document fixes as runbooks
-  - design for recovery, not only deployment
+## Reliability Loop
+
+<div align="center">
+
+| Provision | Ship | Observe | Respond | Improve |
+| --- | --- | --- | --- | --- |
+| Terraform | Jenkins | Prometheus | P1/P2 triage | Runbooks |
+| Ansible | GitHub Actions | Grafana | RCA | Automation |
+| AWS | Helm | ELK/Splunk | Rollback | Cost/security fixes |
+
+</div>
+
+```text
+Every incident should leave the platform easier to operate than before.
 ```
 
 ---
 
-## Current Engineering Themes
+## Production Engineering Highlights
 
-| Theme | What I Work On |
+| Focus | Real Work |
 | --- | --- |
-| Platform reliability | SLO-focused operations, production readiness, alert quality, and rollback planning |
-| Cloud infrastructure | VPC, Route 53, IAM, EC2, ECS, EKS, Lambda, RDS, ELB, Auto Scaling, CloudWatch, SNS |
-| Delivery systems | Jenkins, GitHub Actions, GitLab CI, Azure DevOps, Helm, Argo CD, SonarQube |
-| Observability | Metrics, logs, dashboards, alert rules, post-incident analysis, and service health checks |
-| Security and cost | IAM hardening, secret handling, resource cleanup, tagging, and cost-aware architecture |
-| AI for operations | Case-summary automation with FastAPI, AWS Lambda, ServiceNow, and LLM workflows |
+| Kubernetes migration | Migrated workloads from ECS to EKS and improved scalability while reducing infrastructure cost |
+| Infrastructure as Code | Automated AWS provisioning with Terraform and Ansible across 200+ servers |
+| CI/CD acceleration | Built and maintained pipelines for faster, safer releases across microservices |
+| Observability | Built dashboards and alerts across Prometheus, Grafana, Zabbix, Splunk, CloudWatch, and ELK |
+| Incident ownership | Resolved 500+ P1/P2 incidents and drove RCA documentation for long-term fixes |
+| AI for operations | Built case-summary automation using FastAPI, AWS Lambda, ServiceNow, and LLM workflows |
 
 ---
 
-## Technical Stack
+## Toolbox
 
 <div align="center">
 
-### Cloud and Infrastructure
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+### Cloud
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route 53" />
 
-### Containers and Platform
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+### Infrastructure and Platform
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
 
-### CI/CD and Code Quality
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+### Delivery and Quality
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
 
-### Monitoring and Reliability
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
-<img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+### Observability
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="Elastic Stack" />
+<img src="https://img.shields.io/badge/Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
 
 ### Languages and Systems
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 
 </div>
 
 ---
 
-## Featured Work
-
-| Project Area | What It Shows |
-| --- | --- |
-| CloudOps SRE Platform | Practical cloud, SRE, Terraform, Kubernetes, monitoring, and incident-response learning labs |
-| Roboshop Terraform Platform | Multi-stack AWS infrastructure with VPC, security groups, bastion, ALB, Route 53, ACM, ASG, and SSM handoff |
-| DevOps Bash Automation | Operational scripts for disk checks, backups, logs, service health, cleanup, and production readiness |
-| DNS and Route 53 Notes | Deep-dive notes and labs for DNS resolution, Route 53, troubleshooting, and Terraform IaC |
-| AI Case Summary Agent | FastAPI, AWS Lambda, ServiceNow, and LLM-based workflow automation for support case triage |
-
----
-
-## Career Snapshot
+## Project Signal
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Cisco | Site Reliability Engineering</h3>
-      <p><b>Scope:</b> Kubernetes, AWS, CI/CD, monitoring, incident response, and reliability engineering.</p>
-      <p><b>Impact:</b> EKS migration, 125+ microservices, Terraform/Ansible automation, observability dashboards, and 50% MTTR improvement.</p>
+      <h3>CloudOps SRE Platform</h3>
+      <p>Hands-on DevOps/SRE learning platform covering cloud operations, Terraform, Kubernetes, monitoring, incident response, and interview-ready labs.</p>
     </td>
     <td width="50%">
-      <h3>Cisco | Technical Consulting Engineering</h3>
-      <p><b>Scope:</b> P1/P2 incident ownership, RCA, alerting workflows, customer-facing reliability, and operational documentation.</p>
-      <p><b>Impact:</b> 500+ production incidents resolved, 99.9% availability sustained, 95% SLA compliance, and 30% repeat-escalation reduction.</p>
+      <h3>Roboshop Terraform Platform</h3>
+      <p>Multi-stack AWS infrastructure with VPC, security groups, bastion, databases, ALB, Route 53, ACM, launch templates, Auto Scaling, and SSM handoff.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>DevOps Bash Automation</h3>
+      <p>Operational scripts for disk checks, backups, logs, service health, cleanup, alerts, and production-readiness checks.</p>
+    </td>
+    <td width="50%">
+      <h3>DNS and Route 53 Labs</h3>
+      <p>Structured DNS notes, resolution flow, Route 53 examples, troubleshooting guides, and Terraform-based infrastructure practice.</p>
     </td>
   </tr>
 </table>
@@ -152,8 +170,8 @@ operating_style:
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate"/>
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner_2026-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner 2026"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/AWS-AI_Practitioner_2026-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner 2026" />
 </p>
 
 ---
@@ -161,36 +179,23 @@ operating_style:
 ## GitHub Signal
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=GorleJansi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" alt="GitHub stats"/>
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=GorleJansi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GorleJansi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GorleJansi&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorleJansi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorleJansi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" alt="Top languages" />
 </div>
 
 ---
 
-## How I Think About Reliability
-
-```text
-deployments should be repeatable
-alerts should be actionable
-dashboards should answer the next question
-incidents should leave behind better automation
-runbooks should make the next engineer faster
-```
-
 <div align="center">
+  <h3>Available for DevOps, SRE, Cloud, and Platform Engineering roles</h3>
+
   <p>
-    <b>Open to DevOps, SRE, Cloud, and Platform Engineering opportunities.</b>
+    <a href="https://www.linkedin.com/in/gorlejansi/">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=GorleJansi&label=Profile%20views&color=22D3EE&style=for-the-badge" alt="Profile views" />
   </p>
-
-  <a href="https://www.linkedin.com/in/gorlejansi/">
-    <img src="https://img.shields.io/badge/Connect-on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=GorleJansi&label=Profile%20views&color=38BDF8&style=for-the-badge" alt="Profile views"/>
 </div>
